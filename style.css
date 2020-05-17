@@ -1,0 +1,24 @@
+.container{
+    margin-bottom: 80px;
+}
+.car-bg{
+    background-color:#feeae9;
+}
+.carousel-item{
+    padding: 20px 40px;
+} 
+.price{
+    color: coral;
+}
+.buy-btn{
+    background-image: linear-gradient(to bottom, rgb(236, 145, 8) 10%, rgb(216, 155, 23) 90%);
+    color: cornsilk;
+    border: none;
+    border-radius: 10px;
+    padding: 10px 25px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+.carousel-indicators .active{
+    background-color: #f00;
+}
